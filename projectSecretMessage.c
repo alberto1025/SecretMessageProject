@@ -1,9 +1,4 @@
 /*
-Project: Project Secret Message
-Name: Alberto Escalante
-Date: 9-29-2022
-Professor: Z.Atashi
-
 Description: The purpose of this code is to reveal the secret message 
 of a binary number sequence by converting those numbers to characters.
 The technique I used was to copy the first 8 bits of the binary sequence
